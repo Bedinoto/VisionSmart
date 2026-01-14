@@ -1,0 +1,7 @@
+{
+  "name": "VisionFlow: Smart TV Media CMS",
+  "description": "A robust, AI-powered platform for managing media playlists, scheduling content, and optimizing visual assets for Android Smart TVs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
